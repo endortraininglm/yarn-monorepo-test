@@ -1,0 +1,2 @@
+# yarn-monorepo-test
+YMT
