@@ -1,0 +1,1 @@
+console.log('Hello from Account app, depending on Admin!');

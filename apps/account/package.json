@@ -1,0 +1,7 @@
+{
+  "name": "account",
+  "version": "0.1.0",
+  "dependencies": {
+    "admin": "workspace:*"
+  }
+}
