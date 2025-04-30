@@ -1,5 +1,6 @@
 .pnp.*
 .yarn/*
+.idea/*
 .node_modules/*
 !.yarn/patches
 !.yarn/plugins
