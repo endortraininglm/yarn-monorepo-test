@@ -5,5 +5,8 @@
   ],
   "name": "yarn-monorepo-sample",
   "version": "1.0.0",
-  "packageManager": "yarn@3.2.1"
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "amazon-vendor-analytics-mcp-server": "10.0.1"
+  }
 }
