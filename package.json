@@ -8,6 +8,8 @@
   "packageManager": "yarn@3.2.1",
   "dependencies": {
     "amazon-vendor-analytics-mcp-server": "10.0.1",
-    "chalk": "5.6.1"
+    "chalk": "5.6.1",
+    "@ice/internal-logger": "1.2.3",
+    "@theice/payments-sdk": "2.0.0"
   }
 }
